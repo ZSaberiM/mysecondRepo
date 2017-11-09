@@ -13,6 +13,7 @@ namespace WebApplication18.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
+        // ok mr zizizis
             return new string[] { "zz1", "zz2" };
         }
 
